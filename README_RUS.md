@@ -9,7 +9,7 @@
 2. [Chapter II](#chapter-ii) \
     2.1. [Information](#information)
 3. [Chapter III](#chapter-iii) \
-    3.1. [Part 1](#part-1-реализация-smartcalc-v20) \
+    3.1. [Part 1](#part-1-реализация-smartcalc)
 
 ## Chapter I
 ## Introduction
